@@ -20,7 +20,7 @@ the 2-player games studied by Fearnley, Igwe, and Savani (2015):
   of his actions in his support.
 
 * Tournament Games (`tournament_game`): These games are constructed by
-  Anbalagan et al. (2013) as games that do not have interim epsilon-Nash
+  Anbalagan et al. (2013)nnn as games that do not have interim epsilon-Nash
   equilibria with constant cardinality supports for epsilon smaller than
   a certain threshold.
 
